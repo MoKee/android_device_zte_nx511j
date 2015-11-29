@@ -148,9 +148,6 @@ persist.sys.devicename=nubia Z9 mini
 #device name for camera picture
 ro.config.devicename=nubia Z9 mini
 
-#set primary card enabled
-persist.radio.primarycard=true
-
 #Two panels for Settings and Mms
 persist.sys.twopanel.enable=false
 
